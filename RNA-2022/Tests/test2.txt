@@ -1,0 +1,3 @@
+function number func! [number a, number b]
+{
+} 

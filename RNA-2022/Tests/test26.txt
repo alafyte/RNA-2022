@@ -1,0 +1,8 @@
+function number MyFunc[number a, number b]
+{
+	def number a = 9;
+	give[9];
+}
+program
+{
+}

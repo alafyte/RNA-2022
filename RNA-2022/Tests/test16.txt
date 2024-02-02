@@ -1,0 +1,4 @@
+program
+
+def number a = 9;
+}

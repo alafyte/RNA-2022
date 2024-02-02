@@ -1,0 +1,28 @@
+﻿Build started 16/12/22 19:38:36.
+Logging verbosity is set to: Normal.     1>Project "C:\RNA-2022-2\RNA-2022\Library\Library.vcxproj" on node 4 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Library.tlog\Library.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Library.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"C:\RNA-2022-2\RNA-2022\Debug\Library.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Library.cpp
+         Library.cpp
+     1>C:\RNA-2022-2\RNA-2022\Library\Library.cpp(7,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"C:\RNA-2022-2\RNA-2022\Debug\Library.lib" /NOLOGO /MACHINE:X86 Debug\Library.obj
+         Library.vcxproj -> C:\RNA-2022-2\RNA-2022\Debug\Library.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Library.tlog\unsuccessfulbuild".
+         Touching "Debug\Library.tlog\Library.lastbuildstate".
+     1>Done Building Project "C:\RNA-2022-2\RNA-2022\Library\Library.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+       "C:\RNA-2022-2\RNA-2022\Library\Library.vcxproj" (Rebuild target) (1) ->
+       (ClCompile target) -> 
+         C:\RNA-2022-2\RNA-2022\Library\Library.cpp(7,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.07

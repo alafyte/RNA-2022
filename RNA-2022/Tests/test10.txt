@@ -1,0 +1,7 @@
+function number myFunc []
+{
+	program
+	{
+		def number a = 9;
+	}
+} 

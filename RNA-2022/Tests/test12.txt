@@ -1,0 +1,10 @@
+function number myFunc [number a]
+{	
+	a = a + 2;
+	give[a];
+}
+
+program
+{
+	def number num = myFunc;
+}

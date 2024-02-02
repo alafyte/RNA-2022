@@ -1,0 +1,7 @@
+program
+{
+	when["line"]
+	{
+		out[true];
+	}
+}

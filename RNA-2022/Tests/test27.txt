@@ -1,0 +1,7 @@
+function number myFunc[]
+{
+	give ["Hello"];
+}
+program
+{
+}

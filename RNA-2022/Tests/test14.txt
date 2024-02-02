@@ -1,0 +1,9 @@
+function number myFunc[number a, number b]
+{
+	def number res = a + b;
+	give[res];
+}
+program
+{
+	def number res = myFunc[2,,3];
+}

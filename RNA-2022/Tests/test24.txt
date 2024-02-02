@@ -1,0 +1,4 @@
+program
+{
+	def a = 9;
+}

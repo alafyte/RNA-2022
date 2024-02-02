@@ -1,0 +1,4 @@
+program
+{
+	number a = 7;
+}

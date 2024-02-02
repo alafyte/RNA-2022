@@ -1,0 +1,6 @@
+function number myFunc []
+
+program
+{
+
+}

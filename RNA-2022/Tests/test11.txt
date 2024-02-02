@@ -1,0 +1,7 @@
+program
+{
+	when[1 > 8 > 9]
+	{
+		def number a = 1;
+	}
+}

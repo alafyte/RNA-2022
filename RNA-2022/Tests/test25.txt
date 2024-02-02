@@ -1,0 +1,11 @@
+function number MyFunc[number a]
+{
+	give[0];
+}
+function number MyFunc[number a, number b]
+{
+	give[0];
+}
+program
+{
+}

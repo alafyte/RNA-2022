@@ -1,0 +1,4 @@
+program
+{
+	def bool b = true > false;
+}

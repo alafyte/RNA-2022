@@ -1,0 +1,4 @@
+program
+{
+	def line ln = "jdjdkkd;
+}

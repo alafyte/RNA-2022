@@ -1,0 +1,11 @@
+program
+{
+	def number i = 0;
+	when[i ^= 8]
+	{
+		cycle[i < 7]
+		{
+			i = i + 1;
+		}
+	}
+}

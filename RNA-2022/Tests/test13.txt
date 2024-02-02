@@ -1,0 +1,4 @@
+program
+{
+	def number num = 9 * 8); 
+}

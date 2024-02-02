@@ -1,0 +1,7 @@
+function number func [number]
+{
+	give[8];
+}
+program
+{
+}
